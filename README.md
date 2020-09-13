@@ -1,5 +1,5 @@
 # Todo App 
-A simple Todo application built in React Native for practice purposes. 
+A simple note taking (todo) application built in React Native for practice purposes. 
 
 ## Demo
 ![](demo.gif)
