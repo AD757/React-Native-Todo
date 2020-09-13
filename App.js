@@ -27,7 +27,7 @@ export default function App() {
         ];
       });
     } else {
-      Alert.alert('OOPS', 'Todo must be over 3 characters long', [
+      Alert.alert('OPS', 'Note must be over 3 characters long', [
         {text: 'Understood', onPress: () => console.log('alert closed') }
       ]);
     }
